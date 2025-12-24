@@ -48,8 +48,8 @@ li {
   margin-bottom: 10px;    /* Luft zwischen Punkten */
 }
 
-a:default {
-    color:rgb(176, 58, 117);
+a:link {
+    color:rgb(176, 58, 117) !important;
     text-decoration:underline;
     text-decoration-color:rgb(176, 56, 120);
 }
