@@ -1,0 +1,78 @@
+body {
+  background-color:black;
+  color:rgb(194, 174, 150);
+  margin: 0;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
+}
+
+main {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 40px 20px;
+}
+
+h1 {
+    text-align: center;
+    font-size: 2.2rem;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif, Arial, sans-serif;
+    margin-bottom: auto;
+    color:rgb(134, 22, 22);
+}
+
+h2 {
+    text-align: center;
+    font-size: 1.5rem;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-bottom: auto;
+    color:rgb(134, 22, 22)
+}
+
+h3 {
+    font-size: 1.3rem;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-bottom: auto;
+    color:rgb(134, 22, 22)
+}
+
+p {
+    text-align: center;
+  line-height: 1.6;
+  font-size: 1.05rem;
+}
+
+ul {
+  padding-left: 1.2rem;  /* Abstand vom Rand */
+}
+
+li {
+  margin-bottom: 10px;    /* Luft zwischen Punkten */
+}
+
+a:visited {
+    color:rgb(176, 58, 117);
+    text-decoration:underline;
+    text-decoration-color:rgb(176, 56, 120);
+}
+
+a:hover {
+    color: rgb(73, 152, 155);
+    text-decoration: none;
+}
+
+footer {
+    color: brown;
+    text-align: center;
+}
+
+img {
+    height: auto;
+    width: 500px;
+    margin: 20px auto;  /* 20px oben & unten, links/rechts automatisch */
+    border-radius: 8px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+    display: block;
+}
+
+
+
+
