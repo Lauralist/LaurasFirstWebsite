@@ -48,6 +48,11 @@ li {
   margin-bottom: 10px;    /* Luft zwischen Punkten */
 }
 
+a:active {
+    color:rgb(176, 58, 117);
+    text-decoration:underline;
+    text-decoration-color:rgb(176, 56, 120);
+}
 a:visited {
     color:rgb(176, 58, 117);
     text-decoration:underline;
